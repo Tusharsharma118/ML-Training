@@ -9,3 +9,4 @@ The Readme will be updated as the practice progresses.
 2. Regression
    *  Simple Linear Regression
    *  Multiple Linear Regression
+   *  Polynomial Regression
