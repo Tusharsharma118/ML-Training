@@ -10,3 +10,5 @@ The Readme will be updated as the practice progresses.
    *  Simple Linear Regression
    *  Multiple Linear Regression
    *  Polynomial Regression
+   *  Support Vector Regression
+
