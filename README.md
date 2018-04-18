@@ -11,4 +11,6 @@ The Readme will be updated as the practice progresses.
    *  Multiple Linear Regression
    *  Polynomial Regression
    *  Support Vector Regression
+   *  Decision Tree Regression
+   *  Random Forest Regression
 
