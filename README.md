@@ -13,4 +13,8 @@ The Readme will be updated as the practice progresses.
    *  Support Vector Regression
    *  Decision Tree Regression
    *  Random Forest Regression
+3. Classification
+   * Logistic Regression Model
+   * K-Nearest Neighbors Classifier
+   
 
